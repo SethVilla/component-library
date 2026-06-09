@@ -180,20 +180,6 @@ CHROMATIC_PROJECT_TOKEN
 
 ---
 
-## Step 3: Run Chromatic once manually
-
-```bash
-npx chromatic --project-token=YOUR_TOKEN
-```
-
-This:
-
-* builds Storybook
-* uploads it to Chromatic
-* creates your visual testing baseline
-
----
-
 # 🔁 6. Pulling Updates for Starter Code
 
 When new starter code is released for our project:
